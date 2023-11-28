@@ -1,0 +1,19 @@
+body
+{
+    background-color: aqua;
+}
+#update_score
+{
+    font-size:10%;
+    margin-left:50px;
+}
+#update_timer
+{
+    font-size: 10%;
+    float: right;
+    margin-right:50px;
+}
+#update_to_draw
+{
+    color: rgba(255, 0, 0, 0.533);
+}
